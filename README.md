@@ -30,3 +30,5 @@ Stage 3
 - Sejauh ini, model Decision Tree Classifier dengan balancing menggunakan undersampling dan dikenakan hyperparameter tuning memiliki nilai recall tertinggi, dengan  
   kenaikan sebesar 4% dari recall pada kondisi baseline (tanpa handling imbalance dan hyperparameter)
 
+Stage 4 
+- Membuat rekomendasi bisnis berdasarkan feature importance
